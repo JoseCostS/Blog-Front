@@ -17,7 +17,7 @@ Aqui você encontra:
 
 ## 🚀 Como rodar localmente
 
-git clone https://github.com/seuusuario/blogtech.git
-cd blogtech
-npm install
-npm run dev
+- git clone https://github.com/JoseCostS/Blog-Front.git
+- cd blogtech
+- npm install
+- npm run dev
