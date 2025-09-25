@@ -18,6 +18,6 @@ Aqui você encontra:
 ## 🚀 Como rodar localmente
 
 - git clone https://github.com/JoseCostS/Blog-Front.git
-- cd blogtech
+- cd Blog-Front
 - npm install
 - npm run dev
