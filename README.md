@@ -1,4 +1,4 @@
-Bem-vindo ao BlogTech 
+**Bem-vindo ao BlogTech** 
 Um espaço dedicado a aprender e compartilhar artigos, tutoriais e novidades sobre tecnologia, programação e inovação.
 
 ## 🔎 Sobre
