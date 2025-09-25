@@ -16,8 +16,9 @@ Aqui você encontra:
 - [SQLite/PostgreSQL] para banco de dados
 
 ## 🚀 Como rodar localmente
-
-- git clone https://github.com/JoseCostS/Blog-Front.git
-- cd Blog-Front
-- npm install
-- npm run dev
+'''
+git clone https://github.com/JoseCostS/Blog-Front.git
+cd Blog-Front
+npm install
+npm run dev
+'''
